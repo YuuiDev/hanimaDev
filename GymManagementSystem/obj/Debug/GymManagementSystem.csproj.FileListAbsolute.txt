@@ -1,0 +1,260 @@
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCategory.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmChangePassword.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogin.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProduct.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStock.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMainMenu.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSplash.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmAbout.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomer.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMembershipType.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembership.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSubCategory.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogs.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplier.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmRegistration.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplierRecord.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembershipRecord.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProductRecord.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasure.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasurementRecord.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStockRecord.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerRecord.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSales.resources
+C:\Users\Raj Sharma\Documents\Visual Studio 2013\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSalesRecord.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmAbout.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSalesRecord.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSales.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStockRecord.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStock.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasurementRecord.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasure.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembershipRecord.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProductRecord.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplierRecord.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerRecord.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplier.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomer.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogs.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSplash.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProduct.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMembershipType.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembership.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSubCategory.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCategory.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmChangePassword.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogin.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMainMenu.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmRegistration.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Raj Sharma\Desktop\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\bin\Debug\GMS_DB.mdf
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\bin\Debug\GMS_DB_log.ldf
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmAbout.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSalesRecord.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSales.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStockRecord.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStock.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasurementRecord.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasure.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembershipRecord.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProductRecord.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplierRecord.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerRecord.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplier.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomer.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogs.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSplash.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProduct.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMembershipType.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembership.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSubCategory.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCategory.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmChangePassword.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogin.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMainMenu.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmRegistration.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Abidur Rahman\Downloads\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GMS_DB.mdf
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GMS_DB_log.ldf
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmAbout.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSalesRecord.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSales.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStockRecord.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStock.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasurementRecord.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasure.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembershipRecord.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProductRecord.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplierRecord.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerRecord.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplier.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomer.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogs.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSplash.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProduct.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMembershipType.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembership.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSubCategory.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCategory.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmChangePassword.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogin.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMainMenu.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmRegistration.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Abidur Rahman\Desktop\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GMS_DB.mdf
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GMS_DB_log.ldf
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmAbout.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSalesRecord.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSales.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStockRecord.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStock.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasurementRecord.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasure.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembershipRecord.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProductRecord.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplierRecord.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerRecord.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplier.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomer.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogs.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSplash.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProduct.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMembershipType.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembership.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSubCategory.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCategory.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmChangePassword.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogin.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMainMenu.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmRegistration.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Abidur Rahman\Desktop\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GMS_DB.mdf
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GMS_DB_log.ldf
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.dll
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.xml
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmAbout.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSalesRecord.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSales.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStockRecord.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStock.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasurementRecord.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasure.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembershipRecord.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProductRecord.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplierRecord.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerRecord.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplier.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomer.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogs.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSplash.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProduct.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMembershipType.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembership.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSubCategory.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCategory.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmChangePassword.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogin.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMainMenu.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmRegistration.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\MetroFramework.dll
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\MetroFramework.Design.dll
+E:\Outsourcing\Envato\Gym Software\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmAbout.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSalesRecord.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSales.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStockRecord.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmStock.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasurementRecord.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmFitnessMeasure.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembershipRecord.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProductRecord.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplierRecord.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerRecord.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSupplier.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomer.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogs.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSplash.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmProduct.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMembershipType.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCustomerMembership.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmSubCategory.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmCategory.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmChangePassword.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmLogin.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmMainMenu.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.frmRegistration.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GMS_DB.mdf
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GMS_DB_log.ldf
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.dll
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\MetroFramework.Design.dll
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\MetroFramework.dll
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.xml
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\gym project\codecanyon-21545612-gym-club-membership-management-system-c-mysql\GYM\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.ResolveComReference.cache
